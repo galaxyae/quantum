@@ -1,5 +1,13 @@
 *,
-.box-icon-minimal-title {
+.box-icon-minimal-title,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.aside-contacts .address,
+a {
   font-family: "Open Sans", sans-serif;
 }
 

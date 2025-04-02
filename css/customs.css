@@ -1,0 +1,39 @@
+*,
+.box-icon-minimal-title {
+  font-family: "Open Sans", sans-serif;
+}
+
+.address {
+  font-size: 16px;
+}
+
+@media (min-width: 1800px) {
+  .rd-navbar-contacts .address {
+    font-size: 16px;
+  }
+}
+
+.triangle {
+  border-bottom: 54px solid #e98a43;
+}
+
+h1 a:focus,
+h1 a:hover,
+h2 a:focus,
+h2 a:hover,
+h3 a:focus,
+h3 a:hover,
+h4 a:focus,
+h4 a:hover,
+h5 a:focus,
+h5 a:hover,
+h6 a:focus,
+h6 a:hover,
+[class^="heading-"] a:focus,
+[class^="heading-"] a:hover {
+  color: #e98a43;
+}
+
+:root {
+  --swiper-theme-color: #e98a43;
+}
